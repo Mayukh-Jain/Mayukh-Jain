@@ -236,36 +236,33 @@ print(me.philosophy())
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
 <table border="0" cellspacing="0" cellpadding="8">
 <tr>
 <td width="45%" valign="top" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mayukh-Jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayukh-Jain&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=Mayukh-Jain&cc=0d1117&tc=00d9ff&ic=fff&bc=0d1117" width="100%" />
 </td>
 <td width="55%" valign="top" align="right">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayukh-Jain?theme=tokyonight&rank=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Mayukh-Jain&theme=tokyonight&hide_border=true" width="100%" />
+
 </td>
 </tr>
 </table>
-
 </div>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukh-Jain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayukh-Jain&theme=tokyonight" width="28%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayukh-Jain&theme=tokyonight" width="28%"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayukh-Jain?theme=tokyonight&rank=true" width="36%" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayukh-Jain&theme=tokyonight&utcOffset=5.5" width="32%"/> -->
 </div>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayukh-Jain&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://github.com/Mayukh-Jain/Mayukh-Jain/blob/output/github-snake-dark_3.svg" alt="Snake Animation" />
 </div>
-
 ---
 
 ## 🏆 Achievements & Certifications
