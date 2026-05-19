@@ -1,0 +1,21 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule: # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: generate-github-profile-summary-cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: Mayukh-Jain
