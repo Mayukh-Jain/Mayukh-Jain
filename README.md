@@ -57,22 +57,22 @@ print(me.philosophy())
 
 #### 🗣️ Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,html,css,bootstrap,htmx&theme=dark"/>
 </div>
 
 #### 🤖 AI / ML / GenAI
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
 </div>
 
 #### 🌐 Web, Frameworks & Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs,tailwind,vite,jquery,mongodb,mysql,postgres,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs,tailwind,vite,jquery,mongodb,mysql,postgres,supabase,anaconda,npm,qt&theme=dark"/>
 </div>
 
 #### ☁️ Cloud & DevOps
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,githubactions,git,github,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,githubactions,git,github,gitlab,linux,windows&theme=dark"/>
 </div>
 
 #### 🎨 Design, Graphics & Game Dev
@@ -251,8 +251,8 @@ print(me.philosophy())
 </table>
 </div>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayukh-Jain&theme=tokyonight" width="28%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayukh-Jain&theme=tokyonight" width="28%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="28%"/>
+<img src="./profile-summary-card-output/tokyonight/3-num-of-repos-per-language.svg" width="28%"/>
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayukh-Jain?theme=tokyonight&rank=true" width="36%" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayukh-Jain&theme=tokyonight&utcOffset=5.5" width="32%"/> -->
 </div>
