@@ -252,7 +252,7 @@ print(me.philosophy())
 </div>
 <div align="center">
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="28%"/>
-<img src="./profile-summary-card-output/tokyonight/3-num-of-repos-per-language.svg" width="28%"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="28%"/>
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayukh-Jain?theme=tokyonight&rank=true" width="36%" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayukh-Jain&theme=tokyonight&utcOffset=5.5" width="32%"/> -->
 </div>
